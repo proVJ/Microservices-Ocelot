@@ -1,0 +1,17 @@
+C:\D DRIVE\Code Practice\E2E\E2EAP_Solution\E2E.Core\E2E.Core\bin\Debug\netcoreapp3.1\E2E.Core.BL.deps.json
+C:\D DRIVE\Code Practice\E2E\E2EAP_Solution\E2E.Core\E2E.Core\bin\Debug\netcoreapp3.1\E2E.Core.BL.dll
+C:\D DRIVE\Code Practice\E2E\E2EAP_Solution\E2E.Core\E2E.Core\bin\Debug\netcoreapp3.1\E2E.Core.BL.pdb
+C:\D DRIVE\Code Practice\E2E\E2EAP_Solution\E2E.Core\E2E.Core\bin\Debug\netcoreapp3.1\E2E.Core.Data.dll
+C:\D DRIVE\Code Practice\E2E\E2EAP_Solution\E2E.Core\E2E.Core\bin\Debug\netcoreapp3.1\E2E.Core.Data.Entities.dll
+C:\D DRIVE\Code Practice\E2E\E2EAP_Solution\E2E.Core\E2E.Core\bin\Debug\netcoreapp3.1\E2E.Core.Model.dll
+C:\D DRIVE\Code Practice\E2E\E2EAP_Solution\E2E.Core\E2E.Core\bin\Debug\netcoreapp3.1\E2E.Core.Data.pdb
+C:\D DRIVE\Code Practice\E2E\E2EAP_Solution\E2E.Core\E2E.Core\bin\Debug\netcoreapp3.1\E2E.Core.Model.pdb
+C:\D DRIVE\Code Practice\E2E\E2EAP_Solution\E2E.Core\E2E.Core\bin\Debug\netcoreapp3.1\E2E.Core.Data.Entities.pdb
+C:\D DRIVE\Code Practice\E2E\E2EAP_Solution\E2E.Core\E2E.Core\obj\Debug\netcoreapp3.1\E2E.Core.BL.csproj.AssemblyReference.cache
+C:\D DRIVE\Code Practice\E2E\E2EAP_Solution\E2E.Core\E2E.Core\obj\Debug\netcoreapp3.1\E2E.Core.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\D DRIVE\Code Practice\E2E\E2EAP_Solution\E2E.Core\E2E.Core\obj\Debug\netcoreapp3.1\E2E.Core.BL.AssemblyInfoInputs.cache
+C:\D DRIVE\Code Practice\E2E\E2EAP_Solution\E2E.Core\E2E.Core\obj\Debug\netcoreapp3.1\E2E.Core.BL.AssemblyInfo.cs
+C:\D DRIVE\Code Practice\E2E\E2EAP_Solution\E2E.Core\E2E.Core\obj\Debug\netcoreapp3.1\E2E.Core.BL.csproj.CoreCompileInputs.cache
+C:\D DRIVE\Code Practice\E2E\E2EAP_Solution\E2E.Core\E2E.Core\obj\Debug\netcoreapp3.1\E2E.Core.BL.csproj.CopyComplete
+C:\D DRIVE\Code Practice\E2E\E2EAP_Solution\E2E.Core\E2E.Core\obj\Debug\netcoreapp3.1\E2E.Core.BL.dll
+C:\D DRIVE\Code Practice\E2E\E2EAP_Solution\E2E.Core\E2E.Core\obj\Debug\netcoreapp3.1\E2E.Core.BL.pdb

@@ -1,0 +1,10 @@
+C:\D DRIVE\Code Practice\E2E\E2EAP_Solution\E2E.Core.Entities.EFPowerTools\E2E.Core.Entities.EFPowerTools\bin\Debug\netcoreapp3.1\E2E.Core.Entities.EFPowerTools.deps.json
+C:\D DRIVE\Code Practice\E2E\E2EAP_Solution\E2E.Core.Entities.EFPowerTools\E2E.Core.Entities.EFPowerTools\bin\Debug\netcoreapp3.1\E2E.Core.Entities.EFPowerTools.dll
+C:\D DRIVE\Code Practice\E2E\E2EAP_Solution\E2E.Core.Entities.EFPowerTools\E2E.Core.Entities.EFPowerTools\bin\Debug\netcoreapp3.1\E2E.Core.Entities.EFPowerTools.pdb
+C:\D DRIVE\Code Practice\E2E\E2EAP_Solution\E2E.Core.Entities.EFPowerTools\E2E.Core.Entities.EFPowerTools\obj\Debug\netcoreapp3.1\E2E.Core.Entities.EFPowerTools.csproj.AssemblyReference.cache
+C:\D DRIVE\Code Practice\E2E\E2EAP_Solution\E2E.Core.Entities.EFPowerTools\E2E.Core.Entities.EFPowerTools\obj\Debug\netcoreapp3.1\E2E.Core.Entities.EFPowerTools.GeneratedMSBuildEditorConfig.editorconfig
+C:\D DRIVE\Code Practice\E2E\E2EAP_Solution\E2E.Core.Entities.EFPowerTools\E2E.Core.Entities.EFPowerTools\obj\Debug\netcoreapp3.1\E2E.Core.Entities.EFPowerTools.AssemblyInfoInputs.cache
+C:\D DRIVE\Code Practice\E2E\E2EAP_Solution\E2E.Core.Entities.EFPowerTools\E2E.Core.Entities.EFPowerTools\obj\Debug\netcoreapp3.1\E2E.Core.Entities.EFPowerTools.AssemblyInfo.cs
+C:\D DRIVE\Code Practice\E2E\E2EAP_Solution\E2E.Core.Entities.EFPowerTools\E2E.Core.Entities.EFPowerTools\obj\Debug\netcoreapp3.1\E2E.Core.Entities.EFPowerTools.csproj.CoreCompileInputs.cache
+C:\D DRIVE\Code Practice\E2E\E2EAP_Solution\E2E.Core.Entities.EFPowerTools\E2E.Core.Entities.EFPowerTools\obj\Debug\netcoreapp3.1\E2E.Core.Entities.EFPowerTools.dll
+C:\D DRIVE\Code Practice\E2E\E2EAP_Solution\E2E.Core.Entities.EFPowerTools\E2E.Core.Entities.EFPowerTools\obj\Debug\netcoreapp3.1\E2E.Core.Entities.EFPowerTools.pdb

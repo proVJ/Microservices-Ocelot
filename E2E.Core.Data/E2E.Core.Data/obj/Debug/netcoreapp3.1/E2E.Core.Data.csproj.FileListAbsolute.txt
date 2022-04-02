@@ -1,0 +1,16 @@
+C:\D DRIVE\Code Practice\E2E\E2EAP_Solution\E2E.Core.Data\E2E.Core.Data\bin\Debug\netcoreapp3.1\E2E.Core.Data.deps.json
+C:\D DRIVE\Code Practice\E2E\E2EAP_Solution\E2E.Core.Data\E2E.Core.Data\bin\Debug\netcoreapp3.1\E2E.Core.Data.runtimeconfig.json
+C:\D DRIVE\Code Practice\E2E\E2EAP_Solution\E2E.Core.Data\E2E.Core.Data\bin\Debug\netcoreapp3.1\E2E.Core.Data.runtimeconfig.dev.json
+C:\D DRIVE\Code Practice\E2E\E2EAP_Solution\E2E.Core.Data\E2E.Core.Data\bin\Debug\netcoreapp3.1\E2E.Core.Data.dll
+C:\D DRIVE\Code Practice\E2E\E2EAP_Solution\E2E.Core.Data\E2E.Core.Data\bin\Debug\netcoreapp3.1\E2E.Core.Data.pdb
+C:\D DRIVE\Code Practice\E2E\E2EAP_Solution\E2E.Core.Data\E2E.Core.Data\bin\Debug\netcoreapp3.1\E2E.Core.Data.Entities.dll
+C:\D DRIVE\Code Practice\E2E\E2EAP_Solution\E2E.Core.Data\E2E.Core.Data\bin\Debug\netcoreapp3.1\E2E.Core.Data.Entities.pdb
+C:\D DRIVE\Code Practice\E2E\E2EAP_Solution\E2E.Core.Data\E2E.Core.Data\obj\Debug\netcoreapp3.1\E2E.Core.Data.csproj.AssemblyReference.cache
+C:\D DRIVE\Code Practice\E2E\E2EAP_Solution\E2E.Core.Data\E2E.Core.Data\obj\Debug\netcoreapp3.1\E2E.Core.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\D DRIVE\Code Practice\E2E\E2EAP_Solution\E2E.Core.Data\E2E.Core.Data\obj\Debug\netcoreapp3.1\E2E.Core.Data.AssemblyInfoInputs.cache
+C:\D DRIVE\Code Practice\E2E\E2EAP_Solution\E2E.Core.Data\E2E.Core.Data\obj\Debug\netcoreapp3.1\E2E.Core.Data.AssemblyInfo.cs
+C:\D DRIVE\Code Practice\E2E\E2EAP_Solution\E2E.Core.Data\E2E.Core.Data\obj\Debug\netcoreapp3.1\E2E.Core.Data.csproj.CoreCompileInputs.cache
+C:\D DRIVE\Code Practice\E2E\E2EAP_Solution\E2E.Core.Data\E2E.Core.Data\obj\Debug\netcoreapp3.1\E2E.Core.Data.csproj.CopyComplete
+C:\D DRIVE\Code Practice\E2E\E2EAP_Solution\E2E.Core.Data\E2E.Core.Data\obj\Debug\netcoreapp3.1\E2E.Core.Data.dll
+C:\D DRIVE\Code Practice\E2E\E2EAP_Solution\E2E.Core.Data\E2E.Core.Data\obj\Debug\netcoreapp3.1\E2E.Core.Data.pdb
+C:\D DRIVE\Code Practice\E2E\E2EAP_Solution\E2E.Core.Data\E2E.Core.Data\obj\Debug\netcoreapp3.1\E2E.Core.Data.genruntimeconfig.cache

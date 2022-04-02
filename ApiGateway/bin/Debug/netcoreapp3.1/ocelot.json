@@ -1,0 +1,90 @@
+{
+  "Routes": [
+    {
+      "DownstreamPathTemplate": "/api/EntityType",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 56046
+        }
+      ],
+      "UpstreamPathTemplate": "/EntityType/GetData",
+      "UpstreamHttpMethod": [
+        "GET"
+      ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/Account/login",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 56046
+        }
+      ],
+      "UpstreamPathTemplate": "/Account/login",
+      "UpstreamHttpMethod": [
+        "POST"
+      ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/EntityType",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 56046
+        }
+      ],
+      "UpstreamPathTemplate": "/EntityType",
+      "UpstreamHttpMethod": [
+        "GET"
+      ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/test",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 56046
+        }
+      ],
+      "UpstreamPathTemplate": "/test",
+      "UpstreamHttpMethod": [
+        "GET",
+        "PUT",
+        "POST",
+        "DELETE"
+      ],
+      //"Key": "User",
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "iReadyAuthenticationProviderKey",
+        "AllowedScopes": []
+      }
+    },
+    {
+      "DownstreamPathTemplate": "/api/Data",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 55626
+        }
+      ],
+      "UpstreamPathTemplate": "/data",
+      "UpstreamHttpMethod": [
+        "GET",
+        "PUT",
+        "POST",
+        "DELETE"
+      ],
+      //"Key": "User",
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "iReadyAuthenticationProviderKey",
+        "AllowedScopes": []
+      }
+    }
+  ]
+}
