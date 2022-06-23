@@ -11,11 +11,7 @@
  7) Repoitory Pattern and Singleton Somewhere.
  8) CODE
 
- Its Extensible, You can extennd according to your Requirement.
-
- Note:  Some SQL Tables are missing but not so hard to implement same on you own machine, I Hope you will rectify by your own Efforts
  
- Just Code, Yes! This Repo Covers all your queries.
  
  
  
