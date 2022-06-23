@@ -17,6 +17,5 @@
  
  Just Code, Yes! This Repo Covers all your queries.
  
- QUOTE AND THE CODE NO ONE CAN MAKE, SOMETIMES YOU CAN CHOOSE CUT COPY AND PASTE :P 
  
  
