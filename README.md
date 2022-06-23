@@ -6,10 +6,10 @@
  2) Auth Server.
  3) Authorization.
  4) JWT Token.
- 5) ASP Net Identiy, Yes! New .Net Core but seems like OLD School Tech as per 2006 or later years version.
+ 5) ASP Net Identiy.
  6) Some App Level Layers and Architecture.
  7) Repoitory Pattern and Singleton Somewhere.
- 8) And CODE
+ 8) CODE
 
  Its Extensible, You can extennd according to your Requirement.
 
